@@ -1,0 +1,25 @@
+{
+  "name": "quering-subgraph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreambigbibek/blockchainData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreambigbibek/blockchainData/issues"
+  },
+  "homepage": "https://github.com/dreambigbibek/blockchainData#readme",
+  "dependencies": {
+    "mongodb": "^5.4.0",
+    "mongoose": "^7.1.0",
+    "node-fetch": "^3.3.1"
+  }
+}
